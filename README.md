@@ -1,5 +1,5 @@
 ### 👋 Hi, my name is Wiki!
- My name is Wiki! My education is Technical Information Engineering, I have an interest in the world of Technology since I was in high school, and until now I continue my education in the field of Technology or it can be called IT.
+ My name is Wiki! My education is Technical Information Engineering, I am an IT Support & Systems Engineer, but still in the development stage, learning deeper to become even better.
 <br>
 - 👀 I'm interested in Internet Networks and partly in programming, but mostly I'm in Internet networking
 - 📕 I'm learning about operating system database and internet network security
@@ -10,7 +10,7 @@ next i will create some projects and they are in this repository please have a l
 There's still a lot I haven't learned, and I'm happy to learn more
 <br>
 
-- 📫 The best way to reach me is via email: 07wikiarlianm@gmail.com
+- 📫 The best way to reach me is via email: wikianythinginfo@gmail.com
 
 <!---
 allysarh/allysarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
