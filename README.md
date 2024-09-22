@@ -11,7 +11,3 @@ There's still a lot I haven't learned, and I'm happy to learn more
 <br>
 
 - 📫 The best way to reach me is via email: wikianythinginfo@gmail.com
-
-<!---
-allysarh/allysarh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
