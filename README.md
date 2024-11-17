@@ -10,4 +10,4 @@ next i will create some projects and they are in this repository please have a l
 There's still a lot I haven't learned, and I'm happy to learn more
 <br>
 
-- 📫 The best way to reach me is via email: wikianythinginfo@gmail.com
+- 📫 The best way to reach me is via email: info@wikiarlianm.com
