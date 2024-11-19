@@ -1,13 +1,41 @@
-### 👋 Hi, my name is Wiki!
- My name is Wiki! My education is Technical Information Engineering, I am an IT Support & Systems Engineer, but still in the development stage, learning deeper to become even better.
-<br>
-- 👀 I'm interested in Internet Networks and partly in programming, but mostly I'm in Internet networking
-- 📕 I'm learning about operating system database and internet network security
-- 🦾 I am very happy to know new things about technological developments in today's times
-<br>
-next i will create some projects and they are in this repository please have a look!
-<br>
-There's still a lot I haven't learned, and I'm happy to learn more
-<br>
 
-- 📫 The best way to reach me is via email: info@wikiarlianm.com
+# 👋 Hi, I'm Wiki!  
+
+Welcome to my personal corner of GitHub! I'm **Wiki**, a passionate learner with a background in **Technical Information Engineering**. I currently work as an **IT Support & Systems Engineer**, but I’m always striving to grow, explore, and refine my skills. 🚀  
+
+---
+
+## 🌟 About Me  
+
+- 👀 **Fascinated by Internet Networks**: My main focus is on **Internet networking** with a growing interest in programming.  
+- 🛠️ **Learning in Progress**: Diving deeper into **operating systems**, **database management**, and **network security**.  
+- 🤓 **Technology Enthusiast**: I love keeping up with the latest trends in **technological innovation** and applying them to real-world problems.  
+
+---
+
+## 🌱 Current Goals  
+
+- Build and share **awesome projects** right here on GitHub!  
+- Enhance my expertise in **networking technologies** and **system engineering**.  
+- Collaborate with like-minded individuals to create meaningful solutions.  
+
+---
+
+## 💼 My Toolbox  
+
+Here’s a glimpse of the technologies I’m exploring and working with:  
+
+- **Operating Systems**: Windows, Linux  
+- **Networking Tools**: Wireshark, Router Configurations  
+- **Languages**: HTML, CSS, JavaScript, SQL  
+
+---
+
+## 🔗 Let's Connect  
+
+📧 **Reach me via email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)  
+🌐 **Visit my website**: [wikidotexe.xyz](https://wikidotexe.xyz) (Coming Soon!)  
+
+---
+
+*"The journey of learning never ends. Every day is an opportunity to be better than yesterday."*  
