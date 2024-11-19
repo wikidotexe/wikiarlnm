@@ -27,7 +27,7 @@ Welcome to my GitHub! I’m Wiki, an IT Support & Systems Engineer with a backgr
 ## 🔗 Connect With Me
 
 - 📧 **Email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)
-- 🌐 **Website**: [wikiarlianm.com](https://wikiarlianm.com) (Coming Soon!)
+- 🌐 **Website**: [wikidotexe.xyz](https://wikidotexe.xyz)
 
 ---
 
