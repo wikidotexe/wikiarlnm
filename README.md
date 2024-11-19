@@ -1,41 +1,34 @@
+# 👋 Hi, I'm Wiki!
 
-# 👋 Hi, I'm Wiki!  
+Welcome to my GitHub! I’m Wiki, an IT Support & Systems Engineer with a background in Technical Information Engineering. I’m passionate about technology, constantly learning, and improving my skills to solve real-world problems. 🚀
 
-Welcome to my personal corner of GitHub! I'm **Wiki**, a passionate learner with a background in **Technical Information Engineering**. I currently work as an **IT Support & Systems Engineer**, but I’m always striving to grow, explore, and refine my skills. 🚀  
+## 🌟 About Me
 
----
+- 🌐 **Networking Enthusiast**: Specializing in Internet networks, with a growing interest in programming.
+- 🛠️ **Skills in Progress**: Exploring operating systems, databases, and network security.
+- 🤓 **Lifelong Learner**: Staying updated with the latest in tech to continuously grow and contribute.
 
-## 🌟 About Me  
+## 🛠 My Skills
 
-- 👀 **Fascinated by Internet Networks**: My main focus is on **Internet networking** with a growing interest in programming.  
-- 🛠️ **Learning in Progress**: Diving deeper into **operating systems**, **database management**, and **network security**.  
-- 🤓 **Technology Enthusiast**: I love keeping up with the latest trends in **technological innovation** and applying them to real-world problems.  
+| Skill                 | Description                                         |
+|-----------------------|-----------------------------------------------------|
+| **Operating Systems** | Proficient in Windows and Linux systems             |
+| **Networking**        | Configurations, Wireshark, and network security     |
+| **Troubleshooting**   | Solving hardware & software issues effectively      |
+| **Web Development**   | Building responsive websites (HTML, CSS, JS)        |
+| **Backend Development**| Working with PHP and MySQL for databases          |
 
----
+## 💡 My Goals
 
-## 🌱 Current Goals  
+- Create and share innovative tech projects here on GitHub.
+- Collaborate with others to build meaningful solutions.
+- Master advanced networking tools and system engineering concepts.
 
-- Build and share **awesome projects** right here on GitHub!  
-- Enhance my expertise in **networking technologies** and **system engineering**.  
-- Collaborate with like-minded individuals to create meaningful solutions.  
+## 🔗 Connect With Me
 
----
-
-## 💼 My Toolbox  
-
-Here’s a glimpse of the technologies I’m exploring and working with:  
-
-- **Operating Systems**: Windows, Linux  
-- **Networking Tools**: Wireshark, Router Configurations  
-- **Languages**: HTML, CSS, JavaScript, SQL  
-
----
-
-## 🔗 Let's Connect  
-
-📧 **Reach me via email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)  
-🌐 **Visit my website**: [wikidotexe.xyz](https://wikidotexe.xyz) (Coming Soon!)  
+- 📧 **Email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)
+- 🌐 **Website**: [wikiarlianm.com](https://wikiarlianm.com) (Coming Soon!)
 
 ---
 
-*"The journey of learning never ends. Every day is an opportunity to be better than yesterday."*  
+*"Learning is a journey, and I’m excited to see where it takes me!"*
