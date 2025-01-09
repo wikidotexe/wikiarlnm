@@ -17,10 +17,10 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 <div align="center">
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
-	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+	<img width="55" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
 	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
-	<img width="50" src="https://spaces-cdn.clipsafari.com/rfk5bj6vpgpdsarg88ex9xb3sboq" alt="Winbox" title="Winbox"/>
+	<img width="58" src="https://spaces-cdn.clipsafari.com/rfk5bj6vpgpdsarg88ex9xb3sboq" alt="Winbox" title="Winbox"/>
 </div>
 <br>
 
