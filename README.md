@@ -32,6 +32,6 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
    <a href="https://wikidotexe.xyz/">
        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:info@wikiarlianm.com'>info@wikiarlianm.com</a>
-</p>
+   <a href="mailto:info@wikiarlianm.com/">
+       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>
