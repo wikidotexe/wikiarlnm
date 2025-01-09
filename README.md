@@ -39,7 +39,9 @@ Here’s a snapshot of my technical expertise:
 
 ## 📈 GitHub Stats
 
-![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+![wikidotexe's Stats](https://github-readme-stats.vercel.app/api?username=wikidotexe&theme=react&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
