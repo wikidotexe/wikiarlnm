@@ -12,7 +12,7 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Languages
 
 ![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=react&show_icons=true&hide_border=true&layout=compact)
 
