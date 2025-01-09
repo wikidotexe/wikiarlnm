@@ -20,11 +20,12 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 ## 📫 Get in Touch
 
+<br>
 <p align='center'>
    <a href="https://www.linkedin.com/in/dwiki-arlian-maulana-852b14209/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/SpqRPBFo_sM6qm05">
+   <a href="https://wikidotexe.xyz/">
        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
    </a>
 <p align='center'>
