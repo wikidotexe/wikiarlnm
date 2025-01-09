@@ -10,13 +10,7 @@ Welcome to my GitHub! I’m Wiki, an IT Support & Systems Engineer with a backgr
 
 ## 🛠 My Skills
 
-| Skill                 | Description                                         |
-|-----------------------|-----------------------------------------------------|
-| **Operating Systems** | Proficient in Windows and Linux systems             |
-| **Networking**        | Configurations, Wireshark, and network security     |
-| **Troubleshooting**   | Solving hardware & software issues effectively      |
-| **Web Development**   | Building responsive websites (HTML, CSS, JS)        |
-| **Backend Development**| Working with PHP and MySQL for databases          |
+![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 ## 💡 My Goals
 
