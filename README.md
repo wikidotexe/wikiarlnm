@@ -20,7 +20,7 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 ## 📫 Get in Touch
 
-<br>
+
 <p align='center'>
    Let’s connect and collaborate! 🤝
 </p>
@@ -35,4 +35,3 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 <p align='center'>
    📫 How to reach me: <a href='mailto:info@wikiarlianm.com'>info@wikiarlianm.com</a>
 </p>
-<br>
