@@ -12,31 +12,6 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 ---
 
-## 🛠️ My Skills
-
-Here’s a snapshot of my technical expertise:
-
-### **Networking & Infrastructure**
-- 🖧 Networking & VPN Configuration
-- 🔄 Load Balancing & Policy-Based Routing
-- 🛡️ 7 Layers Protocol Mastery
-
-### **System Administration**
-- 🖥️ Virtualization & Operating Systems
-- 🔧 Bash/Shell Scripting & Troubleshooting
-- 🐋 Docker & WSL (Windows Subsystem for Linux)
-- 🌐 Apache/Nginx Configuration
-
-### **Web Development**
-- ⚡ PHP, Laravel & Filament
-- 🛠️ HTML, CSS, Bootstrap, & JavaScript
-- 💾 MySQL & Database Management
-
-### **Others**
-- 📦 CDN Configuration & Optimization
-
----
-
 ## 📈 GitHub Stats
 
 ![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=react&show_icons=true&hide_border=true&layout=compact)
