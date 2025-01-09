@@ -12,9 +12,20 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 ---
 
-## 🌐 Languages
+## 🌐 Languages & Tools
 
-![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=react&show_icons=true&hide_border=true&layout=compact)
+
+<div align="center">
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bash.png" alt="bash" title="bash"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nginx.png" alt="Nginx" title="Nginx"/>
+	<img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ubuntu.png" alt="Ubuntu" title="Ubuntu"/>
+</div>
+<br>
+
+<p align='center'>
+       <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=react&show_icons=true&hide_border=true&layout=compact"/>
+</p>
 
 ---
 
