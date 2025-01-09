@@ -1,28 +1,52 @@
-# 👋 Hi, I'm Wiki!
+# Hi there! 👋
 
-Welcome to my GitHub! I’m Wiki, an IT Support & Systems Engineer with a background in Technical Information Engineering. I’m passionate about technology, constantly learning, and improving my skills to solve real-world problems. 🚀
+Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT Support** and **System Engineer** with a passion for problem-solving, optimizing systems, and building robust solutions. 🚀
+
+---
 
 ## 🌟 About Me
 
-- 🌐 **Networking Enthusiast**: Specializing in Internet networks, with a growing interest in programming.
-- 🛠️ **Skills in Progress**: Exploring operating systems, databases, and network security.
-- 🤓 **Lifelong Learner**: Staying updated with the latest in tech to continuously grow and contribute.
+- 💼 **Profession**: IT Support & System Engineer
+- 🎓 **Experience**: Strong background in system administration, network infrastructure, and web development.
+- 📚 **Passion**: Learning new technologies, automating workflows, and troubleshooting complex systems.
 
-## 🛠 My Skills
+---
+
+## 🛠️ My Skills
+
+Here’s a snapshot of my technical expertise:
+
+### **Networking & Infrastructure**
+- 🖧 Networking & VPN Configuration
+- 🔄 Load Balancing & Policy-Based Routing
+- 🛡️ 7 Layers Protocol Mastery
+
+### **System Administration**
+- 🖥️ Virtualization & Operating Systems
+- 🔧 Bash/Shell Scripting & Troubleshooting
+- 🐋 Docker & WSL (Windows Subsystem for Linux)
+- 🌐 Apache/Nginx Configuration
+
+### **Web Development**
+- ⚡ PHP, Laravel & Filament
+- 🛠️ HTML, CSS, Bootstrap, & JavaScript
+- 💾 MySQL & Database Management
+
+### **Others**
+- 📦 CDN Configuration & Optimization
+
+---
+
+## 📈 GitHub Stats
 
 ![wikidotexe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wikidotexe&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-## 💡 My Goals
+---
 
-- Create and share innovative tech projects here on GitHub.
-- Collaborate with others to build meaningful solutions.
-- Master advanced networking tools and system engineering concepts.
+## 📫 Get in Touch
 
-## 🔗 Connect With Me
+- 💌 Email: [your.email@example.com](mailto:your.email@example.com)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
+- 🌐 Personal Website: [Your Website](https://yourwebsite.com)
 
-- 📧 **Email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)
-- 🌐 **Website**: [wikidotexe.xyz](https://wikidotexe.xyz)
-
-----
-
-*"Learning is a journey, and I’m excited to see where it takes me!"*
+Let’s connect and collaborate! 🤝
