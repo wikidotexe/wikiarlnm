@@ -29,6 +29,6 @@ Welcome to my GitHub! I’m Wiki, an IT Support & Systems Engineer with a backgr
 - 📧 **Email**: [info@wikiarlianm.com](mailto:info@wikiarlianm.com)
 - 🌐 **Website**: [wikidotexe.xyz](https://wikidotexe.xyz)
 
----
+----
 
 *"Learning is a journey, and I’m excited to see where it takes me!"*
