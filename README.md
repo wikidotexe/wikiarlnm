@@ -22,6 +22,10 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 
 <br>
 <p align='center'>
+   Let’s connect and collaborate! 🤝
+</p>
+
+<p align='center'>
    <a href="https://www.linkedin.com/in/dwiki-arlian-maulana-852b14209/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
@@ -31,5 +35,3 @@ Welcome to my GitHub profile! My name is Dwiki Arlian Maulana and I’m an **IT 
 <p align='center'>
    📫 How to reach me: <a href='mailto:info@wikiarlianm.com'>info@wikiarlianm.com</a>
 </p>
-
-Let’s connect and collaborate! 🤝
